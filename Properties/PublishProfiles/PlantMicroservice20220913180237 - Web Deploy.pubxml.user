@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtGmF9ZQpAkW2yVzDz+y3UgAAAAACAAAAAAAQZgAAAAEAACAAAAA+cF8ONq++5DMZXyN9LLKUSajOEJ5SbxW1joFQVN4IsgAAAAAOgAAAAAIAACAAAACEKMB6g2mX8xJtoSdYAas5Xy25DsALa/6T+bP8s64FU4AAAAACiAc1UxscUziA7I5zTSERovIE5xGn1ezcsMBePoxWjECP534Z4h+5r80Jl64eE7VCQWtKJlX0LXZXMWxOAFzuJWEXJQ5L5S0JI7EX44ITqHRn0iZdLv1HDd8n7zsaImrDwIuMGhzEYY7Yu2JCmV1LUDfG1S/BWSwSSY0V5lawMEAAAAARc4NvwRz34s2Be1eizsG0Mc+wi2VpmhBnzMF+/oOZIuxP4wy43c6bm/nTD1xMt4KdlQ6HfmUelme2tOJkdkON</EncryptedPassword>
+    <History>False|2022-09-14T05:08:57.7920251Z;False|2022-09-14T09:24:44.6516237+05:30;False|2022-09-14T08:53:21.8119171+05:30;False|2022-09-13T20:03:59.1153143+05:30;False|2022-09-13T19:16:01.0766970+05:30;False|2022-09-13T18:52:27.4774150+05:30;False|2022-09-13T18:44:05.9219651+05:30;False|2022-09-13T18:29:37.8598143+05:30;False|2022-09-13T18:26:37.6964681+05:30;False|2022-09-13T18:25:38.6040796+05:30;False|2022-09-13T18:23:48.5748330+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:plantmicroservicedbserver.database.windows.net,1433%3bInitial Catalog=PlantMicroservice_db%3bUser Id=Siva%40plantmicroservicedbserver%3bPassword=Prasath%401303</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
